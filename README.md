@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denny-boi
-- 👀 I’m interested in Mechanical Engineering
+- 👀 I’m interested in Mechanical Eng. and Electrical projects.
 - 🌱 I’m currently learning Electrical Science/Ardunio Basics.
 :)
 
