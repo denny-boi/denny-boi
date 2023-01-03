@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @denny-boi
-- 👀 I’m interested in Mechanical Eng. and Electrical projects with a sprinkle of 3D printing.
+- 👋 Hi, I’m @denny-boi, a Mechanical Engineering student 
+- 👀 I’m interested in Mechanical Eng. and electrical circuit projects with a sprinkle of 3D printing.
 - 🌱 I’m currently learning python programming.
 :)
 
