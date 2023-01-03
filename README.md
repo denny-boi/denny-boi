@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denny-boi
-- 👀 I’m interested in Mechanical Eng. and Electrical projects.
-- 🌱 I’m currently learning Electrical Science/Ardunio Basics.
+- 👀 I’m interested in Mechanical Eng. and Electrical projects with a sprinkle of 3D printing.
+- 🌱 I’m currently learning python programming.
 :)
 
 <!---
